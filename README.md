@@ -1,2 +1,2 @@
 # MyAPI-App
-This is just an api application i'm working on
+This is just an api application project i'm working on with free code camp. 
